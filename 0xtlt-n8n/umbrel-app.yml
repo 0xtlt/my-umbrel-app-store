@@ -20,6 +20,9 @@ repo: https://github.com/n8n-io/n8n
 support: https://docs.n8n.io/
 port: 5678
 gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
 path: ""
 defaultUsername: ""
 defaultPassword: ""
