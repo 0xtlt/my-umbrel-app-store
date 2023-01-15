@@ -1,5 +1,6 @@
 manifestVersion: 1
 id: oxtlt-n8n
+icon: https://getumbrel.github.io/umbrel-apps-gallery/n8n/icon.svg
 category: Automation
 name: n8n latest
 version: "0.210.2.1"
