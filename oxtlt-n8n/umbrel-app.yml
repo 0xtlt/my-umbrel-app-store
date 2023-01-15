@@ -2,7 +2,7 @@ manifestVersion: 1
 id: oxtlt-n8n
 category: Automation
 name: n8n latest
-version: "0.210.2"
+version: "0.210.2.1"
 tagline: Build complex workflows, really fast
 description: >-
   n8n is an extendable workflow automation tool. With a fair-code distribution model, n8n will always have visible source code, 
@@ -20,9 +20,8 @@ repo: https://github.com/n8n-io/n8n
 support: https://docs.n8n.io/
 port: 5356
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://getumbrel.github.io/umbrel-apps-gallery/n8n/1.jpg
+  - https://getumbrel.github.io/umbrel-apps-gallery/n8n/2.jpg
 path: ""
 defaultUsername: ""
 defaultPassword: ""
