@@ -3,7 +3,7 @@ id: oxtlt-n8n
 icon: https://getumbrel.github.io/umbrel-apps-gallery/n8n/icon.svg
 category: Automation
 name: n8n latest
-version: "0.210.2.1"
+version: "0.210.3"
 tagline: Build complex workflows, really fast
 description: >-
   n8n is an extendable workflow automation tool. With a fair-code distribution model, n8n will always have visible source code, 
